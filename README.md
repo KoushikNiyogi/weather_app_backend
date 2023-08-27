@@ -80,13 +80,10 @@ Fetches the current city's weather data for the user.
 
 ```json
 {
-  "current_search": [
-    {
-      "city": "New York",
-      "temperature": 25,
-      "condition": "Sunny"
-    }
-  ]
+  "current_search": {
+   "location" : {},
+   "current" : []
+  }
 }
 
 
