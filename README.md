@@ -39,6 +39,7 @@ Logs in an existing user.
   "email": "john@example.com",
   "password": "secretpassword"
 }
+```
 ![Screenshot (125)](https://github.com/KoushikNiyogi/weather_app_backend/assets/112813924/2667b3d1-562d-47d2-a89f-22670d5ca0bb)
 
 ![Screenshot (126)](https://github.com/KoushikNiyogi/weather_app_backend/assets/112813924/12952f36-2ced-4d7d-a8ed-70dd56491fab)
