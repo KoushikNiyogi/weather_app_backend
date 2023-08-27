@@ -4,6 +4,15 @@ This API provides endpoints for user registration, login, and weather data manag
 
 ## Backend URL - https://ill-pink-salmon-garb.cyclic.cloud
 
+## Tech Stack
+- Node js
+- Express Js
+- mongoose
+- Jsonebtoken
+- bcrypt
+- nodemon
+- cors
+
 ## Table of Contents
 - [Register](#register)
 - [Login](#login)
