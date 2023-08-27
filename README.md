@@ -18,6 +18,6 @@ Request Body:
   "name": "User Name",
   "email": "user@example.com",
   "password": "userpassword"
-}
+}```
 ![Screenshot (124)](https://github.com/KoushikNiyogi/weather_app_backend/assets/112813924/1d7bfdfe-40c6-49cb-96af-79bee02af997)
 
