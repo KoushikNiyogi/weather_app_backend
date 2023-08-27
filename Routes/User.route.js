@@ -44,7 +44,8 @@ UserRoute.post("/login",async(req,res)=>{
            res.status(400).send({"msg" : "User not found. Please register"})
         }else{
             bcrypt.compare(password, user.password, function(err, result) {
-                if(err){
+                console.log(result)
+                if(result == false){
                     res.status(400).send({"msg" : "Wrong password"})
                 }else{
                     let token = jwt.sign({ userId: user._id },"weather-app-user");
