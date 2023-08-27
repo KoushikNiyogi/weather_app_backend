@@ -46,4 +46,47 @@ Logs in an existing user.
 
 ![Screenshot (127)](https://github.com/KoushikNiyogi/weather_app_backend/assets/112813924/90fdc795-c34b-422d-99b1-234e97550527)
 
+## Save Weather Data
+
+**Route:** `PATCH /weatherData`
+
+Saves weather data for the user.
+
+### Request Payload
+
+```json
+{
+  "userId": "user_id",
+  "data": {
+    "current : [],
+    "location" : {}
+  }
+}
+```
+
+![Screenshot (124)](https://github.com/KoushikNiyogi/weather_app_backend/assets/112813924/a665b8b6-4777-409d-9eeb-cd3fc4d789cf)
+
+## Fetch Current City
+
+**Route:** `GET /currentcity`
+
+Fetches the current city's weather data for the user.
+
+### Query Parameters
+
+- `userId` (string): User's ID
+
+### Response
+
+```json
+{
+  "current_search": [
+    {
+      "city": "New York",
+      "temperature": 25,
+      "condition": "Sunny"
+    }
+  ]
+}
+
 
