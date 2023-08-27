@@ -2,6 +2,8 @@
 
 This API provides endpoints for user registration, login, and weather data management. It allows users to register, log in, save weather data for their current city, and retrieve their current city's weather data.
 
+## Backend URL - https://ill-pink-salmon-garb.cyclic.cloud
+
 ## Routes
 
 ### Register User
