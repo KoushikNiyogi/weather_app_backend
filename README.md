@@ -59,7 +59,8 @@ Logs in an existing user.
 ```
 ![Screenshot (125)](https://github.com/KoushikNiyogi/weather_app_backend/assets/112813924/2667b3d1-562d-47d2-a89f-22670d5ca0bb)
 
-![Screenshot (126)](https://github.com/KoushikNiyogi/weather_app_backend/assets/112813924/12952f36-2ced-4d7d-a8ed-70dd56491fab)
+![Screenshot (130)](https://github.com/KoushikNiyogi/weather_app_backend/assets/112813924/121d419b-fbfc-44bf-9351-2028df308996)
+
 
 ![Screenshot (127)](https://github.com/KoushikNiyogi/weather_app_backend/assets/112813924/90fdc795-c34b-422d-99b1-234e97550527)
 
